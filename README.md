@@ -22,7 +22,7 @@ then at the "Console" tab, typing
 
 you'll find UPnP device that responds to M-SEARCH.
 
-parameter of upnp.search() indicating ST (it stands for Search Target). So, if you want to search specific target, please indicate it.
+parameter of upnp.search() indicating ST (it stands for Search Target). So, if you want to search specific target, please specify it.
 
     ex. upnp.search("upnp:rootdevice");
 

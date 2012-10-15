@@ -8,7 +8,7 @@ with Chrome canary, type
 
 in the address bar, check "Developer Mode" and click "load unpackaged ...". Then specify this apps directory.
 
-With above step, you'll "UPnP Checker".
+With above step, you'll find "UPnP Checker".
 
 ## how to use
 

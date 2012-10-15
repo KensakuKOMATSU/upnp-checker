@@ -16,7 +16,7 @@
     "experimental",
     {"socket": [
       "udp-bind",
-      "udp-send-to",
+      "udp-send-to"
     ]}
   ]
 }
